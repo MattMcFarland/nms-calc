@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Fungal Cluster",
+    "harvest": "Fungal Mould",
+    "yield": 50,
+    "tth": 30
+  },
+  {
+    "name": "Frostwort",
+    "harvest": "Frost Crystal",
+    "yield": 50,
+    "tth": 15
+  },
+  {
+    "name": "Gamma Weed",
+    "yield": 0,
+    "tth": 30
+  },
+  {
+    "name": "Echinocactus",
+    "yield": 50,
+    "harvest": "Cactus Flesh",
+    "tth": 120
+  },
+  {
+    "name": "Star Bramble",
+    "yield": 25,
+    "harvest": "Star Bulb",
+    "tth":  30
+  },
+  {
+    "name": "Solar Vine",
+    "yield": 50,
+    "harvest": "Solanium",
+    "tth": 120
+  }, 
+  {
+    "name": "Mordrite Root",
+    "yield": 0,
+    "harvest": "Mordrite",
+    "tth": 60
+  },
+  {
+    "name": "Corprite Flower",
+    "yield": 0,
+    "harvest": "Coprite",
+    "tth": 30
+  },
+  {
+    "name": "Gravitino Host",
+    "yield": 1,
+    "harvest": "Gravitino Ball",
+    "tth": 60
+  },
+  {
+    "name": "Venom Urchin",
+    "yield": 0,
+    "harvest": "Sac Venom",
+    "tth": 40
+  },
+  {
+    "name": "Albumen Pearl Orb",
+    "yield": 0,
+    "harvest": "Albumen Pearl",
+    "tth": 80
+  }
+]

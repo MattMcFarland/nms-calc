@@ -1,0 +1,11 @@
+{
+  "name": "nms-calc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt McFarland",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tabletojson": "^0.9.8"
+  }
+}

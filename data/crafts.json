@@ -1,0 +1,41 @@
+
+[
+  {
+    "name": "Poly Fibre",
+    "ingredients": [
+      {
+        "name": "Cactus Flesh",
+        "amount": 100
+      },
+      { "name": "Star Bulb",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Heat Capacitor",
+    "ingredients": [
+      {
+        "name": "Solanium",
+        "amount": 200
+      },
+      {
+        "name": "Frost Crystal",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Circuit Board",
+    "ingredients": [
+      {
+        "name": "Heat Capacitor",
+        "amount": 1
+      },
+      {
+        "name": "Poly Fibre",
+        "amount": 1
+      }
+    ]
+  }
+]
